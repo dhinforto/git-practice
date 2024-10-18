@@ -1,0 +1,19 @@
+//This is a git practice
+//
+//Please put your name alphabetically
+//
+//Sample list :: 
+//   1. Chopper 2. Zoro
+//
+//Then, for example your name is Robin; Insert it as number 2
+//   1. Chopper 2. Robin 3. Zoro
+
+
+
+Developers
+1. AAA
+2. Dhin
+3. Poypoy
+4. Prince
+5. Zizi
+6. Idlan
